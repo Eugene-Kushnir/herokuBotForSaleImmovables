@@ -41,7 +41,7 @@ bot.on('message', msg => {
             })
             break
         case kb.back:
-            bot.sendMessage(chatId, `msg.from.first_name, выберите интересующий Вас раздел`, {
+            bot.sendMessage(chatId, `$(msg.from.first_name), выберите интересующий Вас раздел`, {
                 reply_markup: {
                     keyboard: keyboarsScreen.home
                 }
