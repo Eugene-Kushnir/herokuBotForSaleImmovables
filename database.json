@@ -1,0 +1,54 @@
+{
+    "flat": [
+        {
+            "name": "Продам 1к квартиру на Парусе",
+            "room": 1,
+            "floor": "2/9",
+            "area": "40/28/8",
+            "condition": "под ремонт",
+            "description": "Супер квартира, лучше не найти",
+            "price": 25000,
+            "phone": 380996237525,
+            "sellerName": "Евгений",
+            "link": "https://dom.ria.com/uk/realty-prodaja-dom-novomoskovsk-novomoskovsk-19519972.html"
+        },
+        {
+            "name": "Продам 2к квартиру на Парусе",
+            "room": 2,
+            "floor": "5/9",
+            "area": "40/28/8",
+            "condition": "под ремонт",
+            "description": "Супер квартывыпыира, лучше не найти",
+            "price": 30000,
+            "phone": 380996237525,
+            "sellerName": "Евгений",
+            "link": "https://dom.ria.com/uk/realty-prodaja-dom-novomoskovsk-novomoskovsk-19519972.html"
+        },
+        {
+            "name": "Продам 3к квартиру на Парусе",
+            "room": 3,
+            "floor": "7/9",
+            "area": "64/43/9",
+            "condition": "под ремонт",
+            "description": "Сбалаблалащырвгшщыпне найти",
+            "price": 40000,
+            "phone": 380996237525,
+            "sellerName": "Евгений",
+            "link": "https://dom.ria.com/uk/realty-prodaja-dom-novomoskovsk-novomoskovsk-19519972.html"
+        },
+        {
+            "name": "Продам 4к квартиру на Парусе",
+            "room": 4,
+            "floor": "2/9",
+            "area": "90/65/9",
+            "condition": "под ремонт",
+            "description": "Супер квартира, лучше не найти",
+            "price": 60000,
+            "phone": 380996237525,
+            "sellerName": "Евгений",
+            "link": "https://dom.ria.com/uk/realty-prodaja-dom-novomoskovsk-novomoskovsk-19519972.html"
+        }
+
+
+    ]
+}

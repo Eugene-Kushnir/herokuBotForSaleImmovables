@@ -10,6 +10,11 @@ module.exports = {
         [kb.buy.land, kb.buy.commercy],
         [kb.back]
     ],
+        flat: [
+            [kb.flat.one, kb.flat.two],
+            [kb.flat.three, kb.flat.four],
+            [kb.back]
+        ],
     sell: [
         [kb.sell.flat, kb.sell.house],
         [kb.sell.land, kb.sell.commercy],

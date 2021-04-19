@@ -10,6 +10,12 @@ module.exports = {
         land: 'Участок',
         commercy: 'Коммерцию'
     },
+        flat: {
+            one: '1к',
+            two: '2к',
+            three: '3к',
+            four: '4к'
+        },
     sell: {
         flat: 'Квартиру',
         house: 'Дом',
